@@ -10,3 +10,6 @@ Oh, This is my saymon bot <a href="https://bit.ly/3iRaOzC">invite</a>
 # Saymon-Contact
 If you have a problems/bugs/questions try go to my Official <a href="https://saymonbotsupport.webnode.com/">Webpage</a>
 Try to contact me if you are android... saymonbots@gmail.com
+
+# Powered-and-Commands/Prefix
+All partnership or creating/developing is 🔰Beginners🔰... Prefix of bot is ( > ) and the help command is ( >help )... If you are in my official server/guild cheese prefix is ( ! )
