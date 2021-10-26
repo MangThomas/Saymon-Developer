@@ -16,4 +16,4 @@ bot.on('ready', () => {
     this.bot.user.setStatus('online');
 })
 
-bot.login(process.env.YOU_TOKENS);
+bot.login(process.env.YOUR_TOKENS);
