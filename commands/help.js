@@ -12,8 +12,8 @@ bot.events = new Discord.Collection();
 
 bot.on('ready', () => {
 
-    bot.user.setActivity('+help', { type: "LISTENING" }).catch(console.error);
+    bot.user.setActivity('${prefix}help', { type: "Beginners" }).catch(console.error);
     this.bot.user.setStatus('online');
 })
 
-bot.login(process.env.YOUR_TOKEN);
+bot.login(process.env.YOU_TOKENS);
