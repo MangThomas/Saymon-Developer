@@ -11,4 +11,4 @@ client.on("message", (message) => {
   if (message.author.bot) return;
 });
 
-client.login("YOUR_TOKEN");
+client.login(config.token);
